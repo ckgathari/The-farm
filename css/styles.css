@@ -9,9 +9,12 @@ h1 {
   }
   p {
     font-family: sans-serif;
-    line-height: normal;
+    line-height: 1.5;
   }
   ol {
     line-height: 40px;
     color: blueviolet;
+  }
+  body {
+    background-color: skyblue;
   }
