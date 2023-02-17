@@ -18,3 +18,10 @@ h1 {
   body {
     background-color: skyblue;
   }
+  .Ref {
+    font-style: italic;
+    color: firebrick;
+  }
+  .author {
+    color: deeppink;
+  }
