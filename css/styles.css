@@ -25,3 +25,8 @@ h1 {
   .author {
     color: deeppink;
   }
+  .sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
